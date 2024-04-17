@@ -1,0 +1,36 @@
+﻿@model AuthSystem.ViewModel.InfoViewModel
+
+@{
+    ViewData["Title"] = "Create Info";
+}
+
+<div class="row">
+    <div class ="col-8 mx-auto">
+        <div class="row d-flex align-items-center">
+            <div class="col-9">
+                <h1 class="mt-2">Add Profile</h1>
+            </div>
+            <div class="col-3">
+                <a class="btn btn-outline-warning   form-control" asp-action="Index"><i class="bi bi-arrow-left-square-fill"></i>  Go Back</a>
+            </div>
+        </div>
+
+        <hr />
+        <form asp-action="Create" asp-controller="Info" method="post">
+            <div class="mb-3">
+                <label asp-for="Title"></label> 
+                <input type="text" asp-for="Title" class="form-control" placeholder="Enter Social Media Name">
+                <span class="text-danger" asp-validation-for="Title"></span>
+            </div>
+            <div class="mb-3">
+                <label asp-for="Url"></label>
+                <input type="url" asp-for="Url" class="form-control" placeholder="Enter URL">
+                <span class="text-danger" asp-validation-for="Url"></span>
+            </div>
+            <div class="mb-3">
+                <button type="submit" class="form-control btn btn-outline-danger"><i class="bi bi-file-earmark-check-fill"></i>            Save</button>
+            </div>
+            
+        </form>
+    </div>
+</div>

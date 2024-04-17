@@ -1,0 +1,421 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Pratham.J_INT1598\\Desktop\\.net mvc\\AuthSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0156CCD7-449C-4715-8142-C00777AB5464}|AuthSystem\\AuthSystem.csproj|c:\\users\\pratham.j_int1598\\desktop\\.net mvc\\authsystem\\authsystem\\views\\info\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0156CCD7-449C-4715-8142-C00777AB5464}|AuthSystem\\AuthSystem.csproj|solutionrelative:authsystem\\views\\info\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0156CCD7-449C-4715-8142-C00777AB5464}|AuthSystem\\AuthSystem.csproj|c:\\users\\pratham.j_int1598\\desktop\\.net mvc\\authsystem\\authsystem\\views\\info\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0156CCD7-449C-4715-8142-C00777AB5464}|AuthSystem\\AuthSystem.csproj|solutionrelative:authsystem\\views\\info\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0156CCD7-449C-4715-8142-C00777AB5464}|AuthSystem\\AuthSystem.csproj|c:\\users\\pratham.j_int1598\\desktop\\.net mvc\\authsystem\\authsystem\\views\\info\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0156CCD7-449C-4715-8142-C00777AB5464}|AuthSystem\\AuthSystem.csproj|solutionrelative:authsystem\\views\\info\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0156CCD7-449C-4715-8142-C00777AB5464}|AuthSystem\\AuthSystem.csproj|c:\\users\\pratham.j_int1598\\desktop\\.net mvc\\authsystem\\authsystem\\areas\\identity\\pages\\_authlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0156CCD7-449C-4715-8142-C00777AB5464}|AuthSystem\\AuthSystem.csproj|solutionrelative:authsystem\\areas\\identity\\pages\\_authlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0156CCD7-449C-4715-8142-C00777AB5464}|AuthSystem\\AuthSystem.csproj|c:\\users\\pratham.j_int1598\\desktop\\.net mvc\\authsystem\\authsystem\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0156CCD7-449C-4715-8142-C00777AB5464}|AuthSystem\\AuthSystem.csproj|solutionrelative:authsystem\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0156CCD7-449C-4715-8142-C00777AB5464}|AuthSystem\\AuthSystem.csproj|c:\\users\\pratham.j_int1598\\desktop\\.net mvc\\authsystem\\authsystem\\areas\\identity\\pages\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0156CCD7-449C-4715-8142-C00777AB5464}|AuthSystem\\AuthSystem.csproj|solutionrelative:authsystem\\areas\\identity\\pages\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0156CCD7-449C-4715-8142-C00777AB5464}|AuthSystem\\AuthSystem.csproj|c:\\users\\pratham.j_int1598\\desktop\\.net mvc\\authsystem\\authsystem\\areas\\identity\\pages\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0156CCD7-449C-4715-8142-C00777AB5464}|AuthSystem\\AuthSystem.csproj|solutionrelative:authsystem\\areas\\identity\\pages\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0156CCD7-449C-4715-8142-C00777AB5464}|AuthSystem\\AuthSystem.csproj|c:\\users\\pratham.j_int1598\\desktop\\.net mvc\\authsystem\\authsystem\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0156CCD7-449C-4715-8142-C00777AB5464}|AuthSystem\\AuthSystem.csproj|solutionrelative:authsystem\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0156CCD7-449C-4715-8142-C00777AB5464}|AuthSystem\\AuthSystem.csproj|c:\\users\\pratham.j_int1598\\desktop\\.net mvc\\authsystem\\authsystem\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0156CCD7-449C-4715-8142-C00777AB5464}|AuthSystem\\AuthSystem.csproj|solutionrelative:authsystem\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0156CCD7-449C-4715-8142-C00777AB5464}|AuthSystem\\AuthSystem.csproj|c:\\users\\pratham.j_int1598\\desktop\\.net mvc\\authsystem\\authsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0156CCD7-449C-4715-8142-C00777AB5464}|AuthSystem\\AuthSystem.csproj|solutionrelative:authsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0156CCD7-449C-4715-8142-C00777AB5464}|AuthSystem\\AuthSystem.csproj|c:\\users\\pratham.j_int1598\\desktop\\.net mvc\\authsystem\\authsystem\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{0156CCD7-449C-4715-8142-C00777AB5464}|AuthSystem\\AuthSystem.csproj|solutionrelative:authsystem\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0156CCD7-449C-4715-8142-C00777AB5464}|AuthSystem\\AuthSystem.csproj|c:\\users\\pratham.j_int1598\\desktop\\.net mvc\\authsystem\\authsystem\\areas\\identity\\data\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0156CCD7-449C-4715-8142-C00777AB5464}|AuthSystem\\AuthSystem.csproj|solutionrelative:authsystem\\areas\\identity\\data\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0156CCD7-449C-4715-8142-C00777AB5464}|AuthSystem\\AuthSystem.csproj|c:\\users\\pratham.j_int1598\\desktop\\.net mvc\\authsystem\\authsystem\\areas\\identity\\pages\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0156CCD7-449C-4715-8142-C00777AB5464}|AuthSystem\\AuthSystem.csproj|solutionrelative:authsystem\\areas\\identity\\pages\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0156CCD7-449C-4715-8142-C00777AB5464}|AuthSystem\\AuthSystem.csproj|c:\\users\\pratham.j_int1598\\desktop\\.net mvc\\authsystem\\authsystem\\areas\\identity\\pages\\account\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0156CCD7-449C-4715-8142-C00777AB5464}|AuthSystem\\AuthSystem.csproj|solutionrelative:authsystem\\areas\\identity\\pages\\account\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0156CCD7-449C-4715-8142-C00777AB5464}|AuthSystem\\AuthSystem.csproj|c:\\users\\pratham.j_int1598\\desktop\\.net mvc\\authsystem\\authsystem\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0156CCD7-449C-4715-8142-C00777AB5464}|AuthSystem\\AuthSystem.csproj|solutionrelative:authsystem\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0156CCD7-449C-4715-8142-C00777AB5464}|AuthSystem\\AuthSystem.csproj|c:\\users\\pratham.j_int1598\\desktop\\.net mvc\\authsystem\\authsystem\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0156CCD7-449C-4715-8142-C00777AB5464}|AuthSystem\\AuthSystem.csproj|solutionrelative:authsystem\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0156CCD7-449C-4715-8142-C00777AB5464}|AuthSystem\\AuthSystem.csproj|c:\\users\\pratham.j_int1598\\desktop\\.net mvc\\authsystem\\authsystem\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0156CCD7-449C-4715-8142-C00777AB5464}|AuthSystem\\AuthSystem.csproj|solutionrelative:authsystem\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0156CCD7-449C-4715-8142-C00777AB5464}|AuthSystem\\AuthSystem.csproj|c:\\users\\pratham.j_int1598\\desktop\\.net mvc\\authsystem\\authsystem\\views\\shared\\_layout.cshtml.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{0156CCD7-449C-4715-8142-C00777AB5464}|AuthSystem\\AuthSystem.csproj|solutionrelative:authsystem\\views\\shared\\_layout.cshtml.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0156CCD7-449C-4715-8142-C00777AB5464}|AuthSystem\\AuthSystem.csproj|c:\\users\\pratham.j_int1598\\desktop\\.net mvc\\authsystem\\authsystem\\models\\info.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0156CCD7-449C-4715-8142-C00777AB5464}|AuthSystem\\AuthSystem.csproj|solutionrelative:authsystem\\models\\info.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0156CCD7-449C-4715-8142-C00777AB5464}|AuthSystem\\AuthSystem.csproj|c:\\users\\pratham.j_int1598\\desktop\\.net mvc\\authsystem\\authsystem\\controllers\\infocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0156CCD7-449C-4715-8142-C00777AB5464}|AuthSystem\\AuthSystem.csproj|solutionrelative:authsystem\\controllers\\infocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0156CCD7-449C-4715-8142-C00777AB5464}|AuthSystem\\AuthSystem.csproj|c:\\users\\pratham.j_int1598\\desktop\\.net mvc\\authsystem\\authsystem\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{0156CCD7-449C-4715-8142-C00777AB5464}|AuthSystem\\AuthSystem.csproj|solutionrelative:authsystem\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0156CCD7-449C-4715-8142-C00777AB5464}|AuthSystem\\AuthSystem.csproj|c:\\users\\pratham.j_int1598\\desktop\\.net mvc\\authsystem\\authsystem\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{0156CCD7-449C-4715-8142-C00777AB5464}|AuthSystem\\AuthSystem.csproj|solutionrelative:authsystem\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0156CCD7-449C-4715-8142-C00777AB5464}|AuthSystem\\AuthSystem.csproj|c:\\users\\pratham.j_int1598\\desktop\\.net mvc\\authsystem\\authsystem\\viewmodel\\infoviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0156CCD7-449C-4715-8142-C00777AB5464}|AuthSystem\\AuthSystem.csproj|solutionrelative:authsystem\\viewmodel\\infoviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0156CCD7-449C-4715-8142-C00777AB5464}|AuthSystem\\AuthSystem.csproj|c:\\users\\pratham.j_int1598\\desktop\\.net mvc\\authsystem\\authsystem\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0156CCD7-449C-4715-8142-C00777AB5464}|AuthSystem\\AuthSystem.csproj|solutionrelative:authsystem\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0156CCD7-449C-4715-8142-C00777AB5464}|AuthSystem\\AuthSystem.csproj|c:\\users\\pratham.j_int1598\\desktop\\.net mvc\\authsystem\\authsystem\\areas\\identity\\data\\authdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0156CCD7-449C-4715-8142-C00777AB5464}|AuthSystem\\AuthSystem.csproj|solutionrelative:authsystem\\areas\\identity\\data\\authdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "C:\\Users\\Pratham.J_INT1598\\Desktop\\.net mvc\\AuthSystem\\AuthSystem\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "RelativeDocumentMoniker": "AuthSystem\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "ToolTip": "C:\\Users\\Pratham.J_INT1598\\Desktop\\.net mvc\\AuthSystem\\AuthSystem\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "RelativeToolTip": "AuthSystem\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAAAC4AAABYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-17T11:10:12.318Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_AuthLayout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Pratham.J_INT1598\\Desktop\\.net mvc\\AuthSystem\\AuthSystem\\Areas\\Identity\\Pages\\_AuthLayout.cshtml",
+              "RelativeDocumentMoniker": "AuthSystem\\Areas\\Identity\\Pages\\_AuthLayout.cshtml",
+              "ToolTip": "C:\\Users\\Pratham.J_INT1598\\Desktop\\.net mvc\\AuthSystem\\AuthSystem\\Areas\\Identity\\Pages\\_AuthLayout.cshtml",
+              "RelativeToolTip": "AuthSystem\\Areas\\Identity\\Pages\\_AuthLayout.cshtml",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAACYAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-17T09:08:20.712Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Pratham.J_INT1598\\Desktop\\.net mvc\\AuthSystem\\AuthSystem\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "AuthSystem\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Pratham.J_INT1598\\Desktop\\.net mvc\\AuthSystem\\AuthSystem\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "AuthSystem\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAABYAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-17T09:08:46.246Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\Pratham.J_INT1598\\Desktop\\.net mvc\\AuthSystem\\AuthSystem\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "AuthSystem\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "ToolTip": "C:\\Users\\Pratham.J_INT1598\\Desktop\\.net mvc\\AuthSystem\\AuthSystem\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "RelativeToolTip": "AuthSystem\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACMAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-16T06:57:20.589Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Pratham.J_INT1598\\Desktop\\.net mvc\\AuthSystem\\AuthSystem\\Views\\Info\\Create.cshtml",
+              "RelativeDocumentMoniker": "AuthSystem\\Views\\Info\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Pratham.J_INT1598\\Desktop\\.net mvc\\AuthSystem\\AuthSystem\\Views\\Info\\Create.cshtml",
+              "RelativeToolTip": "AuthSystem\\Views\\Info\\Create.cshtml",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAAB4AAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-16T06:32:14.586Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Pratham.J_INT1598\\Desktop\\.net mvc\\AuthSystem\\AuthSystem\\Views\\Info\\Index.cshtml",
+              "RelativeDocumentMoniker": "AuthSystem\\Views\\Info\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Pratham.J_INT1598\\Desktop\\.net mvc\\AuthSystem\\AuthSystem\\Views\\Info\\Index.cshtml",
+              "RelativeToolTip": "AuthSystem\\Views\\Info\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-16T10:11:08.335Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\Pratham.J_INT1598\\Desktop\\.net mvc\\AuthSystem\\AuthSystem\\Views\\Info\\Edit.cshtml",
+              "RelativeDocumentMoniker": "AuthSystem\\Views\\Info\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\Pratham.J_INT1598\\Desktop\\.net mvc\\AuthSystem\\AuthSystem\\Views\\Info\\Edit.cshtml",
+              "RelativeToolTip": "AuthSystem\\Views\\Info\\Edit.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-17T06:49:38.905Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "_LoginPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\Pratham.J_INT1598\\Desktop\\.net mvc\\AuthSystem\\AuthSystem\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeDocumentMoniker": "AuthSystem\\Views\\Shared\\_LoginPartial.cshtml",
+              "ToolTip": "C:\\Users\\Pratham.J_INT1598\\Desktop\\.net mvc\\AuthSystem\\AuthSystem\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeToolTip": "AuthSystem\\Views\\Shared\\_LoginPartial.cshtml",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAkwB0AAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-17T05:35:15.173Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Pratham.J_INT1598\\Desktop\\.net mvc\\AuthSystem\\AuthSystem\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "AuthSystem\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Pratham.J_INT1598\\Desktop\\.net mvc\\AuthSystem\\AuthSystem\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "AuthSystem\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAACKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-17T09:37:14.124Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Pratham.J_INT1598\\Desktop\\.net mvc\\AuthSystem\\AuthSystem\\Program.cs",
+              "RelativeDocumentMoniker": "AuthSystem\\Program.cs",
+              "ToolTip": "C:\\Users\\Pratham.J_INT1598\\Desktop\\.net mvc\\AuthSystem\\AuthSystem\\Program.cs",
+              "RelativeToolTip": "AuthSystem\\Program.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAAAcAAABfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-16T06:53:46.02Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ApplicationUser.cs",
+              "DocumentMoniker": "C:\\Users\\Pratham.J_INT1598\\Desktop\\.net mvc\\AuthSystem\\AuthSystem\\Areas\\Identity\\Data\\ApplicationUser.cs",
+              "RelativeDocumentMoniker": "AuthSystem\\Areas\\Identity\\Data\\ApplicationUser.cs",
+              "ToolTip": "C:\\Users\\Pratham.J_INT1598\\Desktop\\.net mvc\\AuthSystem\\AuthSystem\\Areas\\Identity\\Data\\ApplicationUser.cs",
+              "RelativeToolTip": "AuthSystem\\Areas\\Identity\\Data\\ApplicationUser.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T05:00:23.645Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Pratham.J_INT1598\\Desktop\\.net mvc\\AuthSystem\\AuthSystem\\appsettings.json",
+              "RelativeDocumentMoniker": "AuthSystem\\appsettings.json",
+              "ToolTip": "C:\\Users\\Pratham.J_INT1598\\Desktop\\.net mvc\\AuthSystem\\AuthSystem\\appsettings.json",
+              "RelativeToolTip": "AuthSystem\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-04-17T09:22:31.55Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\Pratham.J_INT1598\\Desktop\\.net mvc\\AuthSystem\\AuthSystem\\Areas\\Identity\\Pages\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "AuthSystem\\Areas\\Identity\\Pages\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "C:\\Users\\Pratham.J_INT1598\\Desktop\\.net mvc\\AuthSystem\\AuthSystem\\Areas\\Identity\\Pages\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "AuthSystem\\Areas\\Identity\\Pages\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-17T10:07:32.495Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\Pratham.J_INT1598\\Desktop\\.net mvc\\AuthSystem\\AuthSystem\\Areas\\Identity\\Pages\\Account\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "AuthSystem\\Areas\\Identity\\Pages\\Account\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\Pratham.J_INT1598\\Desktop\\.net mvc\\AuthSystem\\AuthSystem\\Areas\\Identity\\Pages\\Account\\_ViewImports.cshtml",
+              "RelativeToolTip": "AuthSystem\\Areas\\Identity\\Pages\\Account\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-17T10:06:51.595Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "C:\\Users\\Pratham.J_INT1598\\Desktop\\.net mvc\\AuthSystem\\AuthSystem\\Views\\Shared\\Error.cshtml",
+              "RelativeDocumentMoniker": "AuthSystem\\Views\\Shared\\Error.cshtml",
+              "ToolTip": "C:\\Users\\Pratham.J_INT1598\\Desktop\\.net mvc\\AuthSystem\\AuthSystem\\Views\\Shared\\Error.cshtml",
+              "RelativeToolTip": "AuthSystem\\Views\\Shared\\Error.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-17T09:54:36.154Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\Pratham.J_INT1598\\Desktop\\.net mvc\\AuthSystem\\AuthSystem\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "AuthSystem\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\Pratham.J_INT1598\\Desktop\\.net mvc\\AuthSystem\\AuthSystem\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "AuthSystem\\Views\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-17T09:54:33.453Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\Pratham.J_INT1598\\Desktop\\.net mvc\\AuthSystem\\AuthSystem\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "AuthSystem\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\Pratham.J_INT1598\\Desktop\\.net mvc\\AuthSystem\\AuthSystem\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "AuthSystem\\Views\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-17T09:54:31.593Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "_Layout.cshtml.css",
+              "DocumentMoniker": "C:\\Users\\Pratham.J_INT1598\\Desktop\\.net mvc\\AuthSystem\\AuthSystem\\Views\\Shared\\_Layout.cshtml.css",
+              "RelativeDocumentMoniker": "AuthSystem\\Views\\Shared\\_Layout.cshtml.css",
+              "ToolTip": "C:\\Users\\Pratham.J_INT1598\\Desktop\\.net mvc\\AuthSystem\\AuthSystem\\Views\\Shared\\_Layout.cshtml.css",
+              "RelativeToolTip": "AuthSystem\\Views\\Shared\\_Layout.cshtml.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-04-17T09:53:55.645Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "site.js",
+              "DocumentMoniker": "C:\\Users\\Pratham.J_INT1598\\Desktop\\.net mvc\\AuthSystem\\AuthSystem\\wwwroot\\js\\site.js",
+              "RelativeDocumentMoniker": "AuthSystem\\wwwroot\\js\\site.js",
+              "ToolTip": "C:\\Users\\Pratham.J_INT1598\\Desktop\\.net mvc\\AuthSystem\\AuthSystem\\wwwroot\\js\\site.js",
+              "RelativeToolTip": "AuthSystem\\wwwroot\\js\\site.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-04-17T06:21:56.733Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "AuthDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Pratham.J_INT1598\\Desktop\\.net mvc\\AuthSystem\\AuthSystem\\Areas\\Identity\\Data\\AuthDbContext.cs",
+              "RelativeDocumentMoniker": "AuthSystem\\Areas\\Identity\\Data\\AuthDbContext.cs",
+              "ToolTip": "C:\\Users\\Pratham.J_INT1598\\Desktop\\.net mvc\\AuthSystem\\AuthSystem\\Areas\\Identity\\Data\\AuthDbContext.cs",
+              "RelativeToolTip": "AuthSystem\\Areas\\Identity\\Data\\AuthDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-16T09:35:25.747Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Info.cs",
+              "DocumentMoniker": "C:\\Users\\Pratham.J_INT1598\\Desktop\\.net mvc\\AuthSystem\\AuthSystem\\Models\\Info.cs",
+              "RelativeDocumentMoniker": "AuthSystem\\Models\\Info.cs",
+              "ToolTip": "C:\\Users\\Pratham.J_INT1598\\Desktop\\.net mvc\\AuthSystem\\AuthSystem\\Models\\Info.cs",
+              "RelativeToolTip": "AuthSystem\\Models\\Info.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-16T09:31:47.206Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "InfoController.cs",
+              "DocumentMoniker": "C:\\Users\\Pratham.J_INT1598\\Desktop\\.net mvc\\AuthSystem\\AuthSystem\\Controllers\\InfoController.cs",
+              "RelativeDocumentMoniker": "AuthSystem\\Controllers\\InfoController.cs",
+              "ToolTip": "C:\\Users\\Pratham.J_INT1598\\Desktop\\.net mvc\\AuthSystem\\AuthSystem\\Controllers\\InfoController.cs",
+              "RelativeToolTip": "AuthSystem\\Controllers\\InfoController.cs",
+              "ViewState": "AQIAAGkAAAAAAAAAAAAuwH4AAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-16T06:20:51.072Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Users\\Pratham.J_INT1598\\Desktop\\.net mvc\\AuthSystem\\AuthSystem\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "AuthSystem\\wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\Pratham.J_INT1598\\Desktop\\.net mvc\\AuthSystem\\AuthSystem\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "AuthSystem\\wwwroot\\css\\site.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAABgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-04-17T06:01:37.8Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Pratham.J_INT1598\\Desktop\\.net mvc\\AuthSystem\\AuthSystem\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "AuthSystem\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Pratham.J_INT1598\\Desktop\\.net mvc\\AuthSystem\\AuthSystem\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "AuthSystem\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAgwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-16T09:41:22.238Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "InfoViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Pratham.J_INT1598\\Desktop\\.net mvc\\AuthSystem\\AuthSystem\\ViewModel\\InfoViewModel.cs",
+              "RelativeDocumentMoniker": "AuthSystem\\ViewModel\\InfoViewModel.cs",
+              "ToolTip": "C:\\Users\\Pratham.J_INT1598\\Desktop\\.net mvc\\AuthSystem\\AuthSystem\\ViewModel\\InfoViewModel.cs",
+              "RelativeToolTip": "AuthSystem\\ViewModel\\InfoViewModel.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAowBIAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-16T06:14:21.288Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
